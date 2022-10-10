@@ -1,0 +1,3 @@
+- !grant
+  role: !group delegation/consumers
+  member: !host /data/bnl-test-app

@@ -1,0 +1,9 @@
+{
+    "created_roles": {
+        "conjur:host:data/bnl-test-app": {
+            "id": "conjur:host:data/bnl-test-app",
+            "api_key": "3c7pp6n12adqqvt5mwkr3b9z5ty22hyhte3krt3z4hy8gd31r9ardw"
+        }
+    },
+    "version": 6
+}

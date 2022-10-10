@@ -1,0 +1,4 @@
+- !host
+  id: bnl-test-app
+  annotations:
+    authn/api-key: true
